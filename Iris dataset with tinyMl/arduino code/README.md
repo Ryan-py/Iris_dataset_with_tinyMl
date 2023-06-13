@@ -1,2 +1,2 @@
 ## Tip
-make sure the two files are on the same folder
+make sure the two files are in the same folder
